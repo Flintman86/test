@@ -1,3 +1,3 @@
-# Тестовый репозиторий
+# test repository
 
 test
